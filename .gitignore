@@ -1,0 +1,16 @@
+.mule
+*.iml
+*.iws
+*.ipr
+*.releaseBackup
+.clover
+/target
+*/target/**
+.project
+.classpath
+.idea
+.settings
+*.DS_Store
+*/*/.DS_Store
+testout.xml
+/lib
